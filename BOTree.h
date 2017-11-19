@@ -35,7 +35,7 @@ class BOTree {
   //this object.
   //      checks to see this object is balanced and if not
   //rotates it appropiately.
-  insert (const T & newData) {
+  void insert (const T & newData) {
     //BONode<T> *
 
   };
